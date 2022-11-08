@@ -1,7 +1,7 @@
 import config from "../config.json";
 import styled from "styled-components";
 import { CSSReset } from "../src/components/cssreset";
-import Menu from "../src/components/Menu";
+import Menu from "../src/components/menu";
 import { StyledTimeline } from "../src/components/timeline";
 
 export default HomePage
