@@ -1,0 +1,26 @@
+{
+    "name": "Testes com React: coleção de vídeos",
+    "job": "Playlists a seguir",
+    "img": "237",
+    "playlists": {
+        "Jogos": [
+            {
+                "title": "Algum título",
+                "url": "url",
+                "thumb": "https://picsum.photos/id/96/367/267"
+            },
+            {
+                "title": "Outro título bem longo, desta vez pra ver se ocorre uma quebra de linha",
+                "url": "urlaaa",
+                "thumb": "https://picsum.photos/id/96/367/267"
+            }
+        ],
+        "Desenvolvimento": [
+            {
+                "title": "Título da playlist 2",
+                "url": "urlbbb",
+                "thumb": "https://picsum.photos/id/180/367/267"
+            }
+        ]
+    }
+}
