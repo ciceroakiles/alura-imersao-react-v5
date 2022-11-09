@@ -7,4 +7,4 @@ Links úteis:
 
 Deploy no Vercel:
 
-https://alura-imersao-react-v5-j88lio1c2-ciceroakiles.vercel.app/
+https://alura-imersao-react-v5-git-master-ciceroakiles.vercel.app/
