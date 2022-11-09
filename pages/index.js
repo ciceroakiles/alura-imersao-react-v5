@@ -67,10 +67,8 @@ function Timeline({ searchValue, ...props }) {
                                 .map((video) => {
                                     return (
                                         <a key={video.url} href={video.url}>
-                                            <img src={video.thumb} />
-                                            <span>
-                                                {video.title}
-                                            </span>
+                                            <img src={`https://i.ytimg.com/vi/${video.url.substring(32)}/maxresdefault.jpg`} />
+                                            <span>{video.title}</span>
                                         </a>
                                     )
                                 })}

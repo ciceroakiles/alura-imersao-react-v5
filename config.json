@@ -6,21 +6,72 @@
     "playlists": {
         "Jogos": [
             {
-                "title": "Algum título",
-                "url": "url",
-                "thumb": "https://picsum.photos/id/96/367/267"
+                "title": "Pathologic 2: Um Diamante no Mundo dos Jogos",
+                "url": "https://www.youtube.com/watch?v=CfTx9k9vqd4"
             },
             {
-                "title": "Outro título bem longo, desta vez pra ver se ocorre uma quebra de linha",
-                "url": "urlaaa",
-                "thumb": "https://picsum.photos/id/96/367/267"
+                "title": "RPCS3 | God of War 3 | Gameplay Completo | i7 10700 + GTX 1660",
+                "url": "https://www.youtube.com/watch?v=FgMMfcu_O6s"
+            },
+            {
+                "title": "Resident Evil 4 | Original VS Remake | October Extended Gameplay Comparison | Analista De Bits",
+                "url": "https://www.youtube.com/watch?v=qaOvGAmGj8I"
+            },
+            {
+                "title": "Cyberpunk 2077 Gameplay PC 1080p 60fps - No Commentary Part 1",
+                "url": "https://www.youtube.com/watch?v=NA_gcqDVwN8"
+            },
+            {
+                "title": "Bobby Fischer (13 anos) | A Partida do Século | Donald Byrne x Bobby Fischer (1956)",
+                "url": "https://www.youtube.com/watch?v=QAxfn0tCwnw"
             }
         ],
-        "Desenvolvimento": [
+        "For Devs": [
             {
-                "title": "Título do primeiro vídeo da playlist 2",
-                "url": "urlbbb",
-                "thumb": "https://picsum.photos/id/180/367/267"
+                "title": "Como Funciona o Boot de um Linux? | O que tem num LiveCD?",
+                "url": "https://www.youtube.com/watch?v=5F6BbhgvFOE"
+            },
+            {
+                "title": "O Princípio Que TODO Programador Precisa Conhecer",
+                "url": "https://www.youtube.com/watch?v=jtzBhKkUKXs"
+            },
+            {
+                "title": "Minha Carreira Teria Sido MUITO Melhor",
+                "url": "https://www.youtube.com/watch?v=NA4srP35Maw"
+            },
+            {
+                "title": "Talento: Matando Semi-Deuses (Parte 1)",
+                "url": "https://www.youtube.com/watch?v=Mw4LSVoQYtA"
+            },
+            {
+                "title": "Talento: Matando Semi-Deuses (Parte 2)",
+                "url": "https://www.youtube.com/watch?v=ootebOORRBc"
+            },
+            {
+                "title": "5 Hábitos que Todo Programador Júnior Já Deveria Ter",
+                "url": "https://www.youtube.com/watch?v=PGxTuv6k0KI"
+            },
+            {
+                "title": "O Primeiro Vídeo Que Gostaria De Ter Assistido Sobre Como Controlar a Ansiedade",
+                "url": "https://www.youtube.com/watch?v=dZJbORri0ro"
+            }
+        ],
+        "Ciência Todo Dia": [
+            {
+                "title": "O Vale da Estranheza",
+                "url": "https://www.youtube.com/watch?v=8Q8_Hr6RP1E"
+            },
+            {
+                "title": "Por que é Matematicamente IMPOSSÍVEL de Resolver o Xadrez",
+                "url": "https://www.youtube.com/watch?v=01Ozf8LRof8"
+            },
+            {
+                "title": "Computadores Quânticos Explicados",
+                "url": "https://www.youtube.com/watch?v=92eSz2X0AlU"
+            },
+            {
+                "title": "Assista esse vídeo quando você quiser se sentir pequeno",
+                "url": "https://www.youtube.com/watch?v=a-kGzsC4DR4"
             }
         ]
     }
