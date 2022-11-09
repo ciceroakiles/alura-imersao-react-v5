@@ -1,6 +1,7 @@
 {
     "name": "Testes com React: coleção de vídeos",
     "job": "Playlists a seguir",
+    "bg": "https://i.pinimg.com/originals/a0/73/2f/a0732f8b3693f76363d6e5307ec43996.jpg",
     "img": "237",
     "playlists": {
         "Jogos": [
