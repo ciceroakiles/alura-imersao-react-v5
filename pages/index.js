@@ -1,12 +1,12 @@
 import React from "react";
-import styled from "styled-components";
 import config from "../config.json";
 import Menu from "../src/components/menu";
 import { CSSReset } from "../src/components/cssreset";
+import { StyledBanner } from "../src/components/banner";
 import { StyledHeader } from "../src/components/header";
 import { StyledTimeline } from "../src/components/timeline";
 
-export default HomePage
+export default HomePage;
 
 function HomePage() {
     const [valorFiltro, setValorFiltro] = React.useState("");
@@ -22,14 +22,6 @@ function HomePage() {
     );
 }
 
-const StyledBanner = styled.div`
-    /*
-    background-color: blue;
-    background-image: url(${config.bg});
-    */
-    background-image: url(${({ bg }) => bg});
-    height: 230px;
-`;
 function Header() {
     return (
         <StyledHeader>

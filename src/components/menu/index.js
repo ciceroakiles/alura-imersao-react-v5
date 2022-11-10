@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import Search from "./components/search";
+import DarkModeSwitch from "./components/darkmodeswitch";
 
 const StyledMenu = styled.header`
   display: flex;
@@ -32,6 +33,7 @@ export default function Menu({valorFiltro, setValorFiltro}) {
         <Logo />
       </div>
       <Search valorFiltro={valorFiltro} setValorFiltro={setValorFiltro} />
+      <DarkModeSwitch />
     </StyledMenu>
   );
 }
