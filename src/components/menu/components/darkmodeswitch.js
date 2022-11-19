@@ -37,18 +37,18 @@ const StyledSwitch = styled.div`
 `;
 
 export default function DarkModeSwitch() {
-    const contexto = React.useContext(ColorModeContext);
-    // console.log("contexto no switch:", contexto);
-    return (
-        <StyledSwitch>
-            <input id="darkmode" type="checkbox" onChange={() => {
-                // console.log("mudanca de state");
-              contexto.toggleMode();
-            }} />
-            <label htmlFor="darkmode" className="darkmode-switch">
-                <span>🌙</span>
-                <span>☀️</span>
-            </label>
-        </StyledSwitch>
-    )
+  const contexto = React.useContext(ColorModeContext);
+  // console.log("contexto no switch:", contexto);
+  return (
+    <StyledSwitch>
+      <input id="darkmode" type="checkbox" onChange={() => {
+        // console.log("mudanca de state");
+        contexto.toggleMode();
+      }} />
+      <label htmlFor="darkmode" className="darkmode-switch">
+        <span>🌙</span>
+        <span>☀️</span>
+      </label>
+    </StyledSwitch>
+  )
 }
